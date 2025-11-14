@@ -10,6 +10,8 @@ int main (void)
     printf ("Name: %s\n", name);
     printf ("Age: %d\n", age);
     printf ("Height: %f\n", height);
+    printf ("Assignment testing");
 
     return 0;
+
 }
